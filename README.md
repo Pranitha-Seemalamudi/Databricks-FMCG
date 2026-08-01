@@ -209,5 +209,4 @@ databricks-fmcg-lakehouse/
 ## Author
 
 **Pranitha Seemalamudi**  
-Data & AI Engineer  
 [LinkedIn](https://www.linkedin.com/in/pranithaseelamudi)
